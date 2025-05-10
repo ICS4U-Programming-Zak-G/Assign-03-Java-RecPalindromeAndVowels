@@ -1,0 +1,4 @@
+The amount of vowels in the string hi is: 1
+Your string must be only letters, no symbols or numbers.
+Your string must be only letters, no symbols or numbers.
+The amount of vowels in the string queue is: 4
